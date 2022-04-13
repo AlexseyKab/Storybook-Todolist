@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Storybook-Todolist/static/css/main.4b56e08f.chunk.css",
+    "main.js": "/Storybook-Todolist/static/js/main.040b9c15.chunk.js",
+    "main.js.map": "/Storybook-Todolist/static/js/main.040b9c15.chunk.js.map",
+    "runtime-main.js": "/Storybook-Todolist/static/js/runtime-main.45aaf685.js",
+    "runtime-main.js.map": "/Storybook-Todolist/static/js/runtime-main.45aaf685.js.map",
+    "static/js/2.e1c5ef63.chunk.js": "/Storybook-Todolist/static/js/2.e1c5ef63.chunk.js",
+    "static/js/2.e1c5ef63.chunk.js.map": "/Storybook-Todolist/static/js/2.e1c5ef63.chunk.js.map",
+    "index.html": "/Storybook-Todolist/index.html",
+    "static/css/main.4b56e08f.chunk.css.map": "/Storybook-Todolist/static/css/main.4b56e08f.chunk.css.map",
+    "static/js/2.e1c5ef63.chunk.js.LICENSE.txt": "/Storybook-Todolist/static/js/2.e1c5ef63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45aaf685.js",
+    "static/js/2.e1c5ef63.chunk.js",
+    "static/css/main.4b56e08f.chunk.css",
+    "static/js/main.040b9c15.chunk.js"
+  ]
+}
