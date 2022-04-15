@@ -10,5 +10,5 @@ export default {
 const callback = action('Task Changed')
 
 export const EditableSpanBaseExample = (props: any) => {
-    return <EditableSpan value={'Start changed'} onChange={callback}/>
+    return <EditableSpan value={'Start value'} onChange={callback}/>
 }
